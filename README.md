@@ -1,2 +1,3 @@
 # Demo-01
-this is my first Git Repository
+This is my first Git Repository.
+Author - Aditya Kumar Choudhary 
